@@ -6,7 +6,7 @@ List of unicorn startup companies
 
 This is a list of unicorn startup companies. In finance, a unicorn is a privately held startup company with a current valuation of US$1 billion or more, across technology centers throughout the world.
 
-Kaggle Dataset Link ---------> https://www.kaggle.com/datasets/uzairrehman/world-wide-unicorn-startups
+Kaggle Dataset Link : https://www.kaggle.com/datasets/uzairrehman/world-wide-unicorn-startups
 
 Let's analyze these companies and their values together.
 
