@@ -1,4 +1,4 @@
-# World Wide Unicorn Startups EDA 🦄
+# World Wide Unicorn Startups EDA 
 
 ![image](https://user-images.githubusercontent.com/63750425/200773654-1d3cf712-afc9-4de5-a9af-4ab79bf74dc0.png)
 
